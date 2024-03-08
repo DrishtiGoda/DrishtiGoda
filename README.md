@@ -16,7 +16,7 @@ Hi, I'm Drishti, a skilled **Software Developer**. I hold a Master's of Science 
 const drishti = {
     pronouns: "she" | "her",
     code: ["Javascript", "Java", "SQL", "HTML", "CSS"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", art],
+    askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", "art"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize", "tailwindcss"],
@@ -25,7 +25,12 @@ const drishti = {
         backEnd: {
             js: ["firebase", "node", "express"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "CitusDB"],
+        cloud: {
+            aws: ["EC2", "Lambda", "DynamoDB", "CloudWatch"]
+        },
+        devOps: ["Azure DevOps", "GitHub Actions", "Packer HCL", "Pulumi", "CI/CD"],
+        misc: ["Apache Nifi", "Figma"]
     }
 };
 ```
@@ -40,18 +45,6 @@ const drishti = {
 
 ⚡️ Frontend Developer - [**Appdid Infotech**](https://www.appdid.com/)
 
-
-## My Skillset Overview 💻
-
-Languages: JavaScript, Java, Dart
-
-Frameworks:  HTML, CSS, SASS, TailwindCSS, Bootstrap, ReactJS, Redux, NodeJS, NextJS, Flutter, Spring Boot, REST API’s, Git
-
-Databases: MySQL, PostgreSQL, CitusDB, MongoDB
-
-DevOps & Tools:  AWS EC2, Lambda, DynamoDB, CloudWatch, Azure DevOps, GitHub Actions, Packer HCL, Pulumi, CICD, Apache Nifi, Figma
-
-
 ## 📫 Get in touch
 
 <div> 
@@ -65,3 +58,19 @@ DevOps & Tools:  AWS EC2, Lambda, DynamoDB, CloudWatch, Azure DevOps, GitHub Act
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
+
+
+
+<!-- 
+## My Skillset Overview 💻
+
+Languages: JavaScript, Java, Dart
+
+Frameworks:  HTML, CSS, SASS, TailwindCSS, Bootstrap, ReactJS, Redux, NodeJS, NextJS, Flutter, Spring Boot, REST API’s, Git
+
+Databases: MySQL, PostgreSQL, CitusDB, MongoDB
+
+DevOps & Tools:  AWS EC2, Lambda, DynamoDB, CloudWatch, Azure DevOps, GitHub Actions, Packer HCL, Pulumi, CICD, Apache Nifi, Figma 
+-->
+
+
