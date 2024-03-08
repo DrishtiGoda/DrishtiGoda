@@ -10,7 +10,7 @@ Hi, I'm Drishti, a skilled **Software Developer**. I hold a Master's of Science 
 
 <!--Credits for template: https://github.com/amadoabaca -->
 
-### aboutMe.js
+### skills.js
 
 ```javascript
 const drishti = {
