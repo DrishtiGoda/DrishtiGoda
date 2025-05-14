@@ -37,6 +37,8 @@ const drishti = {
 
 ## Work Experience 👩‍💼
 
+⚡️ Software Engineer - [**Tenex Software Solutions**](https://www.tenexsolutions.com/)
+
 ⚡️ Software Engineer - [**Philips USA**](https://www.usa.philips.com/healthcare/solutions/patient-monitoring)
 
 <!-- ⚡️ Intramural Sports Official - [**Northeastern Intramural Sports**](https://recreation.northeastern.edu/intramural-sports/) -->
